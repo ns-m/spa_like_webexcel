@@ -1,0 +1,24 @@
+{
+  "name": "spa_like_webexcel",
+  "version": "1.0.0",
+  "description": "JavaScript SPA",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ns-m/spa_like_webexcel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "spa"
+  ],
+  "author": "KMV <9117479@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ns-m/spa_like_webexcel/issues"
+  },
+  "homepage": "https://github.com/ns-m/spa_like_webexcel#readme"
+}

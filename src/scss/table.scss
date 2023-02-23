@@ -10,10 +10,21 @@
 
   .excel__table-row{
     display: flex;
+    flex-direction: row;
+    min-height: 20px;
+    height: $row-height;
 
   }
 
   .excel__table__row-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: $info-cell-width;
+    height: 100%;
+    border: 1px solid $border-color;
+    background: #f8f9fa;
+    border-top: none;
 
   }
 
